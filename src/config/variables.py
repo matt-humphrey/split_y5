@@ -3,6 +3,7 @@ DATASETS = {
         "file": "G205_PAdata.sav",
         "prefix": "G205",
         "rename": {
+            "G205_XDAT": "G105_XDAT",
             "G205_PBP1": "G105_BP4",
             "G205_PBP2": "G105_BP3",
             "G205_PBP3": "G105_BP2",
